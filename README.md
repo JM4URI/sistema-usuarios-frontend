@@ -19,3 +19,6 @@ Interfaz web construida con **React**, **Vite** y **Material UI** para interactu
 <!-- Enlace de video probando la pagina -->
 ## VIDEO:
 https://youtu.be/OA0amVz4y9I
+
+## ENLACE PROYECTO BACKEND
+https://github.com/JM4URI/sistema-usuarios-backend
