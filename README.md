@@ -19,12 +19,3 @@ Interfaz web construida con **React**, **Vite** y **Material UI** para interactu
 <!-- Enlace de video probando la pagina -->
 ## VIDEO:
 https://youtu.be/OA0amVz4y9I
-
-## Login
-![login](login.png)
-
-## Menu
-![menu principal](menu-principal.png)
-
-## Lista de Usuarios
-![lista usuarios](lista-usuarios.png)
